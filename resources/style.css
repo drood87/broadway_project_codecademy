@@ -12,7 +12,8 @@ header {
 	}
 
 #heading,
-.navLinks {
+.navLinks,
+#contactHeadingStyle {
 	color: white;
 }
 
@@ -36,4 +37,8 @@ header {
 
 .sectionDescription {
 	font-size: 14px;
+}
+
+#contactHeadingStyle {
+	background-image: url("building.png");
 }
