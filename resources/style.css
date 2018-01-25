@@ -9,8 +9,7 @@ header {
 
 #heading {
 	font-size: 70px;
-	font-weight: bold;
-}
+	}
 
 #heading,
 .navLinks {
@@ -21,3 +20,20 @@ header {
 	font-size: 18px;
 }
 
+#articleHeader {
+	font-size: 32px;	
+}
+
+#articleHeader,
+#heading,
+.subheading {
+	font-weight: bold;
+}
+
+.subheading {
+	font-size: 23px;
+}
+
+.sectionDescription {
+	font-size: 14px;
+}
