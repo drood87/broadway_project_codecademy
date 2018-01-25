@@ -1,3 +1,23 @@
 body {
 	font-family: "Helvetica", sans-serif;
+	text-align: center;
 }
+
+header {	
+	background-image: url("building.png");
+}
+
+#heading {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+#heading,
+.navLinks {
+	color: white;
+}
+
+.navLinks {
+	font-size: 18px;
+}
+
