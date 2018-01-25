@@ -3,7 +3,8 @@ body {
 	text-align: center;
 }
 
-header {	
+.backgroundImage,
+#contactHeadingStyle {	
 	background-image: url("building.png");
 }
 
@@ -13,7 +14,8 @@ header {
 
 #heading,
 .navLinks,
-#contactHeadingStyle {
+#contactHeadingStyle,
+#copyright {
 	color: white;
 }
 
@@ -39,6 +41,11 @@ header {
 	font-size: 14px;
 }
 
-#contactHeadingStyle {
-	background-image: url("building.png");
+footer {
+	text-align: left;
+	background-color: dimgray;
+}
+
+#copyright {
+	font-size: 11px;
 }
